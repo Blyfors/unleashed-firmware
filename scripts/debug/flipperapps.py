@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+xfrom dataclasses import dataclass
 from typing import Optional, Tuple, Dict, ClassVar
 import struct
 import posixpath
